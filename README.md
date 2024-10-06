@@ -2,10 +2,9 @@
 
 The **Countries App** is a React-based application for exploring, sorting, and searching country data, featuring efficient API handling, local storage integration, and a clean UI.
 
-## Live Demo 
-> Not as per the updated project
+## Live 
 
-[Visit Countries App (Assignment Copy)](https://level-2-assign-3-countries-api.netlify.app)
+[Visit Countries App](https://web-countries-app.vercel.app/)
 
 ## Key Features
 
